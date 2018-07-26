@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NetworkAbilityTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="isp_txv">Network Operator:</string>
+    <string name="monet_txv">Network Type:</string>
+    <string name="rssi_txv">RSSI:</string>
+    <string name="avg_rssi_txv">AVG RSSI:</string>
+    <string name="downtime_txv">Dowload Time:</string>
+    <string name="uploadtime_txv">Upload time:</string>
+    <string name="download_bar">Download Progress:</string>
+    <string name="upload_bar">Upload Progress:</string>
+    <string name="send_bar">Send Progress:</string>
+    <string name="down_btn">Start</string>
+    <string name="up_btn">Upload File</string>
+    <string name="log_btn">Upload Log</string>
+    <string name="server_ip">Server Ip</string>
+    <string name="account_name">Account Name</string>
+    <string name="account_psd">Password</string>
+
+</resources>
